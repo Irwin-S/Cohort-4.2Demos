@@ -1,0 +1,13 @@
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.exe
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.deps.json
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.runtimeconfig.json
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.runtimeconfig.dev.json
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.dll
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\bin\Debug\netcoreapp3.1\FirstDemo.pdb
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.csprojAssemblyReference.cache
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.AssemblyInfoInputs.cache
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.AssemblyInfo.cs
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.csproj.CoreCompileInputs.cache
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.dll
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.pdb
+H:\TECHCareers Program\cohort4-2demos\FirstDemo\obj\Debug\netcoreapp3.1\FirstDemo.genruntimeconfig.cache
